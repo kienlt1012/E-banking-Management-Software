@@ -50,7 +50,7 @@ public class JPAConfig {
 		dataSource.setDriverClassName("com.mysql.cj.jdbc.Driver");
 		dataSource.setUrl("jdbc:mysql://localhost:3306/e-banking?useSSL=false");
 		dataSource.setUsername("root");
-		dataSource.setPassword("Satori071256.");
+		dataSource.setPassword("123456");
 		return dataSource;
 	}
 	
